@@ -1,0 +1,78 @@
+<?php
+
+$arr=[
+    [
+        "Nome"=>"Ana",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    
+    [
+        "Nome"=>"Alvaro",
+        "Idade"=>16,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Alexia",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    
+    [
+        "Nome"=>"Fernanda",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Gustavo",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Jordana",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Igor",
+        "Idade"=>16,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Maria Eduarda",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"João Gabriel",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Marcelo",
+        "Idade"=>15,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Thauane",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Victoria",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Vitorial",
+        "Idade"=>16,
+        "Estado"=>"PR"
+    ],
+    [
+        "Nome"=>"Julia",
+        "Idade"=>16,
+        "Estado"=>"PR"
+    ],
+];
+
+?>

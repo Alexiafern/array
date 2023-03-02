@@ -11,7 +11,6 @@
     <title>Pergunta 2</title>
 </head>
 <body><main>
-    
             <h1>O que é concatenação no PHP?</h1>
             <br>
             <img src="../imgs/concatenação.jpg" alt="">
@@ -47,7 +46,6 @@
             <p>$n = 1129;</p>
             <p>$endCompleto = $end.", ".$n;</p>
             <p>echo &lt;h2&gt;Endereço: ".$endCompleto.";&lt;/h2&gt;</p>
-</main>
-    
+</main>  
 </body>
 </html>

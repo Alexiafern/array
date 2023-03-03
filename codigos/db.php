@@ -73,6 +73,11 @@ $arr=[
         "Idade"=>16,
         "Estado"=>"PR"
     ],
+    [
+        "Nome"=>"Ariani",
+        "Idade"=>17,
+        "Estado"=>"PR"
+    ],
 ];
 
 ?>
